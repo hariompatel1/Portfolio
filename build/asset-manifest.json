@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebc874b2.css",
+    "main.js": "/static/js/main.532b9061.js",
+    "static/media/Rasif Taghizade Resume.pdf": "/static/media/Rasif Taghizade Resume.6405eae8af5abe173880.pdf",
+    "static/media/Benav.png": "/static/media/Benav.dd57ca5b169a2c9fe582.png",
+    "static/media/chat-app.png": "/static/media/chat-app.eedf1a845b5bfc56e842.png",
+    "index.html": "/index.html",
+    "main.ebc874b2.css.map": "/static/css/main.ebc874b2.css.map",
+    "main.532b9061.js.map": "/static/js/main.532b9061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc874b2.css",
+    "static/js/main.532b9061.js"
+  ]
+}
