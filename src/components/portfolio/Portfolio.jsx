@@ -45,7 +45,7 @@ const Portfolio = () => {
       description: " This in this project you Knoe about me",
       technologies: "React ",
       link: "https://6510284151dc6953d3f8b4e7--frolicking-rugelach-f76ead.netlify.app/",
-      github: "#",
+      github: "https://github.com/hariompatel1/Portfolio",
     },
   
   ];
