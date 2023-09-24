@@ -16,7 +16,7 @@ const Portfolio = () => {
       description:
         " This project demonstrates proficiency in building real-time, complex features like real-time messaging and user authentication",
       technologies: "React Js |  | EXpress JS | mongoDb",
-      link: "https://educational-website-reactjs.netlify.app/",
+      link: "#",
       github: "https://github.com/hariompatel1/mern-chat-app",
     },
     {
@@ -26,7 +26,7 @@ const Portfolio = () => {
       description:
         " fully functional web application with essential features such as real-time updates, user authentication, and task management.",
       technologies: "React || EXpress JS | mongoDb",
-      link: "https://covid-19-tracker-weld-nu.vercel.app/",
+      link: "#",
       github: "https://github.com/hariompatel1/Mern-Stack_Todo",
     },
     {
